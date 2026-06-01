@@ -1,6 +1,6 @@
 {
   "name": "@shapeshift-labs/frontier-documentation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Frontier-native documentation manifests, generated documentation books, Vite integration, and agent evidence for Frontier apps and packages.",
   "type": "module",
   "license": "MIT",
