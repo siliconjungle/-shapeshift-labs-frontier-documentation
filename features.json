@@ -1,0 +1,19 @@
+{
+  "feature": "frontier-documentation-package",
+  "package": "@shapeshift-labs/frontier-documentation",
+  "surfaces": [
+    "documentation-manifest",
+    "auto-discovery",
+    "browser-book",
+    "vite-virtual-modules",
+    "frontier-docs-cli",
+    "harness-evidence"
+  ],
+  "acceptance": [
+    "normalizes generated documentation manifests",
+    "discovers markdown, package, feature, and API source documentation",
+    "writes standalone documentation book artifacts",
+    "emits fuzz, benchmark, browser evidence, and agent runbook plans",
+    "keeps optional integrations behind subpath exports"
+  ]
+}
